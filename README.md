@@ -17,7 +17,8 @@ datasets (or similar at different sampling rates)- the more sensors in use, the 
 must be efficient enough to train over a *reasonable* time-window (ideally 24 hours of data to identify a user at .8 confidence), 
 locally, on a smartphone. All sensor data will be local to the phone and training models must be online to adapt to user behavior.**
 
-[Mobile Sensor Daily Activity Data Forensics](https://ieee-dataport.org/documents/mobile-sensor-daily-activity-data-forensics)
+* [ExtraSensory](http://extrasensory.ucsd.edu/)
+* [Mobile Sensor Daily Activity Data Forensics](https://ieee-dataport.org/documents/mobile-sensor-daily-activity-data-forensics)
 
 #### Generative sensor datasets
 
