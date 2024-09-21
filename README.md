@@ -1,8 +1,7 @@
 # research-bounties
 
 The following are a list of unsolved problems or problems being outsourced for
-bounties. Bounty rewards will be given in BTC or the digital platform of your 
-choice.
+bounties.
 
 ## Problems
 
